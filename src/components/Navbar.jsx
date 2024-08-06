@@ -1,5 +1,6 @@
 
 import logo from "../assets/abLogo.png";
+// use Recat-icons for icons
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 const Navbar = () => {
