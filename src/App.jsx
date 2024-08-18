@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Technologies from "./components/Technologies";
 import Projects from "./components/Projects";
+import Contacts from "./components/Contacts";
 
 
 const App = () => {
@@ -29,6 +30,7 @@ const App = () => {
         <About />
         <Technologies />
         <Projects />
+        <Contacts />
 
 
       </div>
