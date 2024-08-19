@@ -30,7 +30,7 @@ const Projects = () => {
             description:
                 "A personal portfolio website showcasing projects, skills, and contact information.",
             technologies: ["HTML", "CSS", "React", "Vite"],
-            link: "https://google.com" // Link to change after deploy
+            link: "https://github.com/aditya9-2/Assignment-one-portfolio"
         },
         {
             title: "Face Recognition Attendance System",
